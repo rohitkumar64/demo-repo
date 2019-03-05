@@ -1,0 +1,8 @@
+org\camunda\bpm\getstarted\loanapproval\LoanApprovalRoute.class
+org\camunda\bpm\getstarted\loanapproval\CheckLoanRequestService.class
+org\camunda\bpm\getstarted\loanapproval\SendMessageTest.class
+org\camunda\bpm\getstarted\loanapproval\CamelBootStrap.class
+org\camunda\bpm\getstarted\loanapproval\CheckLoanEligibilityService.class
+org\camunda\bpm\getstarted\loanapproval\common\CommonConstants.class
+org\camunda\bpm\getstarted\loanapproval\StartProcessInstanceController.class
+org\camunda\bpm\getstarted\loanapproval\WebappExampleProcessApplication.class
